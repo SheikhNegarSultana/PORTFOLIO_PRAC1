@@ -135,4 +135,76 @@ text-align: center;
     margin: 0px auto;
     
 }
+/* Skills */
+.skill-items{
+    display: flex;
+    gap: 24px;
+}
+.what{
+    color: #181818;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+.skill-dis{
+    color: #757575;
+    font-weight: 400px;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.icon-dis{
+    color: #757575;
+    font-weight: 400px;
+    
+    
+}
+.icon-name{
+    color: #181818;
+    font-weight: bold;
+    font-size: 20px;
+}
+.skills{
+    margin-bottom: 130px;
+}
+.skill-item{
+    padding: 30px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    
+}
 
+/* Resume */
+.resume-head{
+    color: #181818;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+.education-head{
+    font-size: 30px;
+    font-weight: bold;
+}
+.experiencea-education{
+    display: flex;
+    gap: 24px;
+}
+.resu-title{
+    font-weight: bold;
+   
+
+}
+.resu-sub{
+    font-weight: 600;
+    
+}
+
+.resu-dis{
+    font-weight: 400;
+    
+}
+.cv{
+    margin-top: 50px;
+}
+.resume-section{
+    margin-bottom: 113px;
+}
