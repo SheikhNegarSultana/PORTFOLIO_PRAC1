@@ -208,3 +208,75 @@ text-align: center;
 .resume-section{
     margin-bottom: 113px;
 }
+
+/* Footer */
+.organizing-icons{
+    display: flex;
+    gap: 24px;
+}
+.con-deg{
+    margin-top: 284px;
+    color: #181818;
+    font-weight: bold ;
+    color: rgb(24, 24, 24);
+font-size: 35px;
+line-height: 48px;
+
+
+}
+.para-deg{
+    font-weight: 400;
+    color: rgb(71, 71, 71);
+    
+font-size: 16px;
+
+line-height: 28px;
+margin-bottom: 30px;
+
+}
+.contact{
+    margin-bottom: 472px;
+    
+}
+.footer-deg{
+   display: flex;
+   gap: 117px;
+   
+}
+.filling{
+    gap: 24px;
+}
+.fill-up{
+    margin-bottom: 24PX;
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+
+}
+.footer-design{
+   
+position: absolute;
+width: 1600px;
+height: 780px;
+left: 0;
+right: 0;
+top: 3476px;
+bottom: 0;
+background: rgb(255, 248, 243);
+}
+.contact{
+    margin-left: 230px;
+    
+}
+
+footer input[type = "text"] ,footer input[type = "email"] , footer textarea{
+   
+    height: 64px;
+    border: none;
+    background-color: white;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+
+}
